@@ -1,6 +1,6 @@
 /* Crea una función que reciba un texto y una letra, y cuente cuántas veces aparece usando un for */
 
-let entrada = prompt("Ingrese un texto");
+let entrada = prompt("Ingrese un texto.");
 let entradaLetra = prompt("Ingrese una letra para ver cuantas veces se repite");
 
 function  texto (entrada , entradaLetra){
