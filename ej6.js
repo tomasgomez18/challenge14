@@ -9,4 +9,3 @@ return arrayDef;
 
 let resultado = eliminarPosicion (arrayDef);
 console.log(eliminarPosicion (arrayDef));
-    
